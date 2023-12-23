@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daneshwar Kumr</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![Uploading White Minimalist Profile LinkedIn Banner.png…]()
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshwarkumar&label=Profile%20views&color=0e75b6&style=flat" alt="daneshwarkumar" /> </p>
 
