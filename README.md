@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daneshwar Kumr</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Uploading White Minimalist Profile LinkedIn Banner.png…]()
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshwarkumar&label=Profile%20views&color=0e75b6&style=flat" alt="daneshwarkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daneshwarkumar" alt="daneshwarkumar" /></a> </p>
